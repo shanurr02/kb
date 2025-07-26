@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8 text-sm font-medium text-gray-700">
           <li>
-            <Link href="/" className="hover:text-black font-semibold">Home</Link>
+            <Link href="/" className="hover:text-black font-semibold">Rome</Link>
           </li>
           <li>
             <Link href="/services" className="hover:text-black">Services</Link>
